@@ -10,7 +10,7 @@
         </about>
         <stack>
             <languages>PHP, JavaScript, SQL</languages>
-            <web_technologies>Laravel, React, Next.js, Tailwind CSS</web_technologies>
+            <web>Laravel, React, Next.js, Tailwind CSS</web>
             <tools>Git, Figma, Postman, Vercel</tools>
         </stack>
     </body>
